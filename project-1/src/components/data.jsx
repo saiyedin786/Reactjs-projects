@@ -1,0 +1,20 @@
+export const Data = [
+    {
+        id:1,
+        name:"ismail",
+        age:44,
+        image:"https://images.unsplash.com/photo-1721332149274-586f2604884d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8"
+    },
+    {
+        id:2,
+        name:"samina",
+        age:43,
+        image:"https://images.unsplash.com/photo-1730818203797-897b2838105a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1fHx8ZW58MHx8fHx8"
+    },
+    {
+        id:3,
+        name:"subhan",
+        age:14,
+        image:"https://images.unsplash.com/photo-1719937206158-cad5e6775044?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMXx8fGVufDB8fHx8fA%3D%3D"
+    },
+]
